@@ -1,0 +1,6 @@
+├── docs/
+│   ├── index.md             <-- Paste your README content here
+│   ├── templates.md         <-- (Optional) Deep dive on project templates
+│   └── sandboxes.md         <-- (Optional) Deep dive on cloud sandbox steps
+├── mkdocs.yml               <-- MkDocs configuration file
+└── .gitlab-ci.yml           <-- GitLab pipeline to build the static site
