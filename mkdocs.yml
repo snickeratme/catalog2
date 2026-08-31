@@ -1,0 +1,8 @@
+site_name: Engineering Developer Catalog
+theme:
+  name: material # The industry favorite clean developer theme
+
+nav:
+  - Home: index.md
+  - Project Templates: templates.md
+  - Cloud Sandboxes: sandboxes.md
